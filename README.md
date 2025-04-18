@@ -6,12 +6,18 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 # Project Background
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
+The Online Retail II dataset comes from a UK-based, non-store online retailer specializing in unique all-occasion gift-ware. This data contains transactional records running from December 1, 2009, to December 9, 2011. Many customers that placed orders within this time frame are wholesalers. 
+
+including product names, quantities, prices, customer IDs, and sales dates, which provide a comprehensive view of the company’s retail performance over the span of two years.
+
+As a data analyst, my objective is to explore the rich data provided by the company to derive actionable insights. The business model relies heavily on e-commerce, with a substantial portion of the sales driven by wholesalers. This project addresses/analyze sales trends, evaluate product performance, and uncover areas where business strategies can be enhanced.
+
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Sales Trend Analysis:** This section focuses on evaluating historical sales patterns, identifying seasonal trends, and assessing performance across different months and years. Key metrics, such as revenue, order volume, and average order value (AOV), will be analyzed to uncover actionable insights and guide future business strategies.
+- **Product Perfromance Evaluation:** Given the extensive variety of products sold, this analysis will look into the performance of individual products, assessing sales volume, revenue generation, and identifying top and underperforming products. Insights will be used to suggest potential product optimization strategies or inventory adjustments.
+- **Regional Sales Comparison:** This analysis will examine sales across different countries to identify geographic performance differences. By understanding which regions are performing best and where improvements can be made, the company can tailor marketing efforts and regional strategies more effectively.
+- **Customer Purchasing Behavior:** While detailed customer segmentation is unavailable, this analysis will look at trends in repeat purchasing behavior, order frequency, and transaction volumes to derive insights on customer loyalty and engagement. Understanding these trends will help refine marketing and retention strategies.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
