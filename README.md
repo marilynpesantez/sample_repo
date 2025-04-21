@@ -6,16 +6,16 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 # Project Background
 The Online Retail II dataset comes from a UK-based, non-store online retailer specializing in unique all-occasion gift-ware. 
 
-This data contains transactional records running from December 1, 2009, to December 9, 2011. A substantial portion of the sales within this frame was driven by wholesalers. Thus, the business relied heavily on e-commerce. This project analyzes/explores the company's retail performance over a two-year time span to derive actionalable insights. This project addresses/analyze sales trends, evaluate product performance, and uncover areas where business strategies can be enhanced. --> to uncover untapped potential for promotion bundles, untapped markets, and inventory/logistical improvements to accomodate for holiday. 
+This data contains transactional records running from December 1, 2009, to December 9, 2011. The business relied heavily on e-commerce, with a substantial portion of the sales within this frame being driven by wholesalers. This project analyzes the company's retail performance over a two-year time span to derive actionalable insights. This project addresses/analyze sales trends, evaluates product performance, and uncover areas where business strategies can be enhanced. --> to uncover untapped potential for promotion bundles, untapped markets, and inventory/logistical improvements to accomodate for holiday. 
 
 fluff: will be analyzed to uncover actionable insights and guide future business strategies | 
 
 Insights and recommendations are provided on the following key areas:
 
 - **Sales Trend Analysis:** An evaluation of historical sales patterns, identifying seasonal and monthly trends with a focus Sales Revenue, Order Volume, and Average Order Value (AOV).
-- **Product Perfromance Evaluation:** Given the extensive variety of products sold, this assestment looks into the performance of individual products, assessing sales volume, revenue generation, and identifying top and underperforming products. Insights will be used to suggest potential product optimization strategies or inventory adjustments.
+- **Product Perfromance Evaluation:**
+- Given the extensive variety of products sold, this assestment looks into the performance of individual top performing products, assessing sales volume and revenue generation. Insights will be used to suggest potential product optimization strategies or inventory adjustments.
 - **Regional Sales Comparison:** This analysis will examine sales across different countries to identify geographic performance differences. By understanding which regions are performing best and where improvements can be made, the company can tailor marketing efforts and regional strategies more effectively.
-- **Customer Purchasing Behavior:** While detailed customer segmentation is unavailable, this analysis will look at trends in repeat purchasing behavior, order frequency, and transaction volumes to derive insights on customer loyalty and engagement. Understanding these trends will help refine marketing and retention strategies.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
@@ -24,14 +24,14 @@ Targed SQL queries regarding various business questions can be found here [link]
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
 
-
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The companies main database structure as seen below consists of one table broken out into 4 unique views with a total row count of 1067371 records. A description of each view is as follows:
+- **sale_view:** 
+- **cancellation_view:**
+- **test_view:**
+- **bad_debt_adjustment:**
+- **duplicated_rows_view:**
 
 [Entity Relationship Diagram here]
 
@@ -48,11 +48,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 # Insights Deep Dive
-### Category 1:
+### Sales Trends:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **The company's sales peaked in November 2011 with 2,770 orders totaling $1,503,866.78 in monthly revenue.** This aligns with a universal peak in shopping and gift purchases leading up to the holidays.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Sales revenue tends to dip from December to February following a holiday boom. Revenue drops to its lowest point in February 2011 with $522545.56 in monthly revenue and 1,101 total orders** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends. December 2010 to February 2011 is the only window with consecutive drops in monthly revenue. 
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
