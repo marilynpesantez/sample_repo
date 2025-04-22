@@ -1,14 +1,7 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
 The Online Retail II dataset comes from a UK-based, non-store online retailer specializing in unique all-occasion gift-ware. 
 
-This data contains transactional records running from December 1, 2009, to December 9, 2011. The business relied heavily on e-commerce, with a substantial portion of the sales within this frame being driven by wholesalers. This project analyzes the company's retail performance over a two-year time span to derive actionalable insights. This project addresses/analyze sales trends, evaluates product performance, and uncover areas where business strategies can be enhanced. --> to uncover untapped potential for promotion bundles, untapped markets, and inventory/logistical improvements to accomodate for holiday. 
-
-fluff: will be analyzed to uncover actionable insights and guide future business strategies | 
+This data contains transactional records running from December 1, 2009, to December 9, 2011. The business relied heavily on e-commerce, with a substantial portion of the sales within this frame being driven by wholesalers. This project analyzes the company's retail performance over a two-year time span to derive actionalable insights. This project addresses/analyze sales trends, evaluates product performance, and uncover areas where business strategies can be enhanced. --> to uncover untapped potential for promotion bundles, untapped markets, and inventory/logistical improvements to accomodate for holiday.
 
 Insights and recommendations are provided on the following key areas:
 
