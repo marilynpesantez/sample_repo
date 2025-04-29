@@ -44,9 +44,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **The company's sales peaked in November 2011 with 2,770 orders totaling $1,503,866.78 in monthly revenue.** This aligns with a universal peak in shopping and gift purchases leading up to the holidays.
   
-* **Sales revenue and order volume tends dip from December to February following a holiday boom across both 2010 and 2011.** Revenue declined month-over-month for three consecutive months, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume follows the same trend.
+* **Sales revenue and order volume dipped from December to February following a holiday boom in both 2010 and 2011.** Revenue declined month-over-month for three consecutive months, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed the same trend.
   
-* **Revenue, order volume recover in March, staggering through the summer months.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Revenue and order volume recover in March, staggering through the summer months.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Average order value peaked in December 2011, however there was also a peak in average order value of cancelled transactions.** With cancelled order volume dipping during this same month, this likely corresponds with a number of wholesalers who perhaps overanticipated demand for their own respective shops and cancelled their orders. 
 
@@ -97,9 +97,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Sales figures peak towards the end of the year, suggesting a holiday season effect due to a higher universal demand for gift-ware. **The compay should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects.   **
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* AOV dips from January to March, picking pack up through to the end of the year and peaking in November to December. Customer's are likely buying more expensive or larger quantities of items. . **The business should implement a targeted upsell strategy through pricing and bundling strategies to reward and encourage high-value purchass. 
   
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
