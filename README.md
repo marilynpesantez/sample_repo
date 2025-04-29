@@ -43,13 +43,13 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Sales Trends:
 
-* **The company's sales peaked in November 2011 with 2,770 orders totaling $1,503,866.78 in monthly revenue.** This aligns with a universal peak in shopping and gift purchases leading up to the holidays.
+* **The company's sales peaked in November 2011 with 2,770 orders totaling $1,503,866.78 in monthly revenue.** This aligns with a universal peak in retail shopping and gift purchases leading up to the end-of-year holidays.
   
-* **Sales revenue and order volume dipped from December to February following a holiday boom in both 2010 and 2011.** Revenue declined month-over-month for three consecutive months, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed the same trend.
+* **Sales revenue and order volume dipped from December to February following the holiday seasons in both 2010 and 2011.** Revenue declined month-over-month for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed the same trend.
   
 * **Revenue and order volume recover in March, staggering through the summer months.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
-* **Average order value peaked in December 2011, however there was also a peak in average order value of cancelled transactions.** With cancelled order volume dipping during this same month, this likely corresponds with a number of wholesalers who perhaps overanticipated demand for their own respective shops and cancelled their orders. 
+* **Average order value peaked in December 2011, however there was also a peak in average order value of cancelled transactions.** With cancelled order volume dipping during this same month, this likely corresponds with instances in which wholesalers likely overanticipated demand for gift-ware from their own respective shops and cancelled their orders through this wholesaler
 
 [Visualization specific to category 1]
 
