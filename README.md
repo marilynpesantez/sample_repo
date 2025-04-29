@@ -23,7 +23,7 @@ The companies main database structure as seen below consists of one table broken
 - **giveaway_view:** All records where where Quantity is greater than zero, UnitPrice equals 0, CustomerID is not empty, and Item is not empty are assumed to represent items given away to customers for free through special promotions or bundles.
 - **cancellation_view:** All records where Quantity is less than zero and InvoiceNo begins with 'C' are assumed to represent cancelled transactions. Cancellation patterns are acknowledged in the analysis but not included in sales_view as they distort Order Volume and Average Order Value metrics.
 - **test_view:** All records where UnitPrice equals 0 and CustomerID is empty are assumed to be system tests that do not represent any tangible transactions.
-- - **bad_debt_adjustment:** All records where where InvoiceNo begins with 'A' and StockCode equals 'B'.
+- **bad_debt_adjustment:** All records where where InvoiceNo begins with 'A' and StockCode equals 'B'.
 - **duplicated_rows_view:** All records where each column value is exactly equal to the values in some other row. A Row_Number() function was applied to the original raw view, partitioning over each column. This was done to identify duplicate records (where row_num > 1) and differenciate between the original record (where row_num = 1). These duplicates were labeled and excluded from the sale_view.
 
 [Entity Relationship Diagram here]
