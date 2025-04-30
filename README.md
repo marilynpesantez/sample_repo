@@ -86,16 +86,16 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Sales figures peak towards the end of the year, suggesting a holiday season effect due to a higher universal demand for gift-ware. **The compay should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects.   **
+* Sales figures peak towards the end of the year, suggesting a holiday season effect due to a higher universal demand for gift-ware. **The compay should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects.**
   
-* AOV dips from January to March, picking pack up through to the end of the year and peaking in November to December. Customer's are likely buying more expensive or larger quantities of items. . **The business should implement a targeted upsell strategy through pricing and bundling strategies to reward and encourage high-value purchass. 
+* AOV dips from January to March, picking pack up through to the end of the year and peaking in November to December. Customer's are likely buying more expensive or larger quantities of items. . **The business should implement a targeted upsell strategy through pricing and bundling strategies to reward and encourage high-value purchass.**
   
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
-* Moderate-to-high AOV in Western Europe, suggesting customers are willing to spend more on each transaction. **To capitalize on this and drive order volume, considering implementing loyalty programs, as well as expanding product selection or even renaming product lines & categories throughout the year. This will position the retailer as a distination for more than just giftware, while incentivizing existing whilesale customers to increase their purchase frequency.
+* Moderate-to-high AOV in Western Europe, suggesting customers are willing to spend more on each transaction. **To capitalize on this and drive order volume, considering implementing loyalty programs, as well as expanding product selection or even renaming product lines & categories throughout the year. This will position the retailer as a distination for more than just giftware, while incentivizing existing whilesale customers to increase their purchase frequency.**
 *
 *
-* Overall - The company would also benefit from establishing relationships through targeted acquisition strategies with wholesaler customers that sell a broader range of products and are more likely to the make bulk purchases throughout the year.**
+* Overall - The company would also benefit from establishing relationships through targeted acquisition strategies with wholesaler customers that carry a broader range of products and are more likely to the make bulk purchases throughout the year. This is dependent on expanding product selection or crosslisting products under different "buckets" to improve the discoverability of versatile "giftware" items.**
   
 
 # Assumptions and Caveats:
