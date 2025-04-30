@@ -75,7 +75,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
   
 * **Strong performers in Western Europe (Germany, EIRE, France, and Netherlands), reflecting wides** High sales revenue in these regions is supported by morderate-to-high order volumes and AOV, indicating a mix of both frequenty and high-value transactions across these countries. Customer retention should be a key focus. 
   
-* **EIRE ranks second in total sales revenue after UK, but has a higher AOV than the UK.** A high AOV in EIRE indicates a more wholesale-focused customer base that is willing to make larger purchases. While customers in Ireland are spending more per transaction on average, overall order volume is lower than in the UK. A smaller population and customer base size acts as a limiting factor on order volume in EIRE compared to the UK. Thus, the company should focus on increasing purchase frequency.  
+* **EIRE ranks second in total sales revenue after UK, but has a higher AOV than the UK.** A high AOV in EIRE indicates a more wholesale-focused customer base that is willing to make larger purchases. While customers in Ireland are spending more per transaction on average, overall order volume is lower than in the UK. Customer base size acts as more of a limiting factor on order volume in EIRE than it does in the UK. Thus, the company should focus on increasing purchase frequency.  
 
 
 [Visualization specific to category 3]
