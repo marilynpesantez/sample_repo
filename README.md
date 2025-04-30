@@ -75,7 +75,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
   
 * **Strong performers in Western Europe (Germany, EIRE, France, and Netherlands), reflecting wides** High sales revenue in these regions is supported by morderate-to-high order volumes and AOV, indicating a mix of both frequenty and high-value transactions across these countries. Customer retention should be a key focus. 
   
-* **EIRE ranks second in total sales revenue after UK, but has a higher AOV than the UK.** A high AOV in EIRE indicates a more wholesale-focused customer base that is willing to make larger purchases. While customers in Ireland are spending more per transaction on average, overall order volume is lower than in the UK. Customer base size acts as more of a limiting factor on order volume in EIRE than it does in the UK. Thus, the company should focus on increasing purchase frequency.  
+* **EIRE ranks second in total sales revenue after UK, but has a higher AOV than the UK.** A high AOV in EIRE indicates a more wholesale-focused customer base that is willing to make larger purchases. While customers in Ireland are spending more per transaction on average, overall order volume is lower than in the UK. Customer base size acts as more of a limiting factor on order volume in EIRE than it does in the UK. Driving purchase frequency should be a key focus.
 
 
 [Visualization specific to category 3]
@@ -92,11 +92,11 @@ Based on the insights and findings above, we would recommend the [stakeholder te
   
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Moderate-to-high AOV in Western Europe, suggesting customers are willing to spend more on each transaction. **To capitalize on this and drive order volume, considering implementing loyalty programs, as well as expanding product selection or even renaming product lines & categories throughout the year. This will position the retailer as a distination for more than just giftware, while incentivizing existing whilesale customers to increase their purchase frequency.
+*
+*
+* Overall - The company would also benefit from establishing relationships through targeted acquisition strategies with wholesaler customers that sell a broader range of products and are more likely to the make bulk purchases throughout the year.**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-
 
 # Assumptions and Caveats:
 
