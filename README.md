@@ -45,7 +45,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **The company's sales peaked in November 2011 with 2,770 orders totaling $1,503,866.78 in monthly revenue.** This aligns with a universal peak in retail shopping and gift purchases leading up to the end-of-year holidays.
   
-* **Sales revenue and order volume dipped from December to February following the holiday seasons in both 2010 and 2011.** Revenue declined month-over-month for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed the same trend.
+* **Sales revenue and order volume dip in December following holiday seasons booms in both 2010 and 2011.** Revenue declined month-over-month for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed the same trend.
   
 * **Revenue and order volume recover in March, staggering through the summer months.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -69,13 +69,13 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### Category 3:
 
-* **United Kingdom holds a top position, dominating in sales revenue and order volume and signaling the company's robust market presence in the region** This may be reflective of the UK's large customer base and strong demand for gift-ware products, as well as logistical efficiencies in buying from a UK-based wholesaler. While the market is large and order volume is high, the relatively lower AOV in comparison to other regions indicates that a larger volume of lower-value orders is driving overall sales for the region. Increasing AOV in this key market should be a key focus.
+* **United Kingdom dominates in sales revenue and order volume, signaling the company's robust market presence in the region** This may be reflective of the UK's large customer base and strong demand for gift-ware products, as well as logistical efficiencies in buying from a UK-based wholesaler. While the market is large and order volume is high, the relatively lower AOV in comparison to other regions indicates that a larger volume of lower-value orders is driving overall sales for the region. With the UK holding a top position, increasing AOV in this key market should be a key focus.
 * 
 * This may also signal the company's effective marketing and customer engagement strategies in the region. 
   
 * **Strong performers in Western Europe (Germany, EIRE, France, and Netherlands), reflecting wides** High sales revenue in these regions is supported by morderate-to-high order volumes and AOV, indicating a mix of both frequenty and high-value transactions across these countries. Customer retention should be a key focus. 
   
-* **EIRE ranks second in total sales revenue after UK, but has a higher AOV than the UK.** A high AOV in EIRE indicates a more wholesale-focused customer base that is willing to make larger purchases. While customers in Ireland are spending more per transaction on average, overall order volume is lower than in the UK. Customer base size acts as more of a limiting factor on order volume in EIRE than it does in the UK. Driving purchase frequency should be a key focus.
+* **EIRE ranks second in total sales revenue after UK, but has a higher AOV than the UK.** A high AOV in EIRE indicates a more wholesale-focused customer base that is willing to make larger purchases. While customers in Ireland are spending more per transaction on average, overall order volume is lower than in the UK. Customer base size acts as greater limiting factor on order volume in EIRE compared to the UK. Driving purchase frequency should be a key focus.
 
 
 [Visualization specific to category 3]
@@ -86,9 +86,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Sales figures peak towards the end of the year, suggesting a holiday season effect due to a higher universal demand for gift-ware. **The compay should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects.**
+* Sales revenue and order volume rise experience a month-over-month  figures peak towards the end of the year, suggesting a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects.**
   
-* AOV dips from January to March, picking pack up through to the end of the year and peaking in November to December. Customer's are likely buying more expensive or larger quantities of items. . **The business should implement a targeted upsell strategy through pricing and bundling strategies to reward and encourage high-value purchass.**
+* AOV dips from January to March, picking back up through to its peak in November. Customer's are likely buying more expensive or larger quantities of items. . **The business should implement a targeted upsell strategy through pricing and bundling strategies to reward and encourage high-value purchass.**
   
 * High Sales and Order Volume in the UK. **Consider offering discounts on larer orders or creating bundled packages. This could boost average spend per transaction and contribute to substantial revenue growth.**
   
