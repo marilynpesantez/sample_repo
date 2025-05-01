@@ -45,7 +45,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **The company's sales peaked in November 2011 with 2,770 orders totaling $1,503,866.78 in monthly revenue.** This aligns with a universal peak in retail shopping and gift purchases leading up to the end-of-year holidays.
   
-* **Sales revenue and order volume dip in December following holiday seasons booms in both 2010 and 2011.** Revenue declined month-over-month for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed the same trend.
+* **Sales revenue and order volume dip in December following holiday seasons booms in both 2010 and 2011.** Revenue declined month-over-month for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed a similar trend, dipping in December 2010 and hitting a low in February 2011 before recovering the following month. 
   
 * **Revenue and order volume recover in March, staggering through the summer months.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -86,17 +86,23 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Sales revenue and order volume rise experience a month-over-month  figures peak towards the end of the year, suggesting a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects.**
+* Sales revenue and order volume experience a month-over-month from August to November, suggesting a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects. Further inventory planning should be carried out to meet demand, particularly for items that have sold out in the past.**
   
-* AOV dips from January to March, picking back up through to its peak in November. Customer's are likely buying more expensive or larger quantities of items. . **The business should implement a targeted upsell strategy through pricing and bundling strategies to reward and encourage high-value purchass.**
+* AOV dips from January to March. **The business should offer post-holiday promotions to boost order volume and sales. reach existing customers using a re-engagement email campaign to offer special discounts, pull customers back in, and drive order value.**
+*
+*
+*
+*     picking back up through to its peak in November. Customer's are likely buying more expensive or larger quantities of items.  **The business should implement a targeted upsell strategy through pricing and bundling strategies to reward and encourage high-value purchass.**
+
+* Sales revenue and order volume recover in March, fluctuating through to August. **The business should consider running targeted summer campaigns catered to major holidays or events celebrated in each respective region. The retailer can drive order volume by tapping into these unique "ocassions" and celebrations.**
   
-* High Sales and Order Volume in the UK. **Consider offering discounts on larer orders or creating bundled packages. This could boost average spend per transaction and contribute to substantial revenue growth.**
+* High Sales and Order Volume in the UK. **Consider offering discounts on larger orders or creating bundled packages. This could boost average order value and contribute to substantial revenue growth.**
   
 * Moderate-to-high AOV in Western Europe, suggesting customers are willing to spend more on each transaction. **To capitalize on this and drive order volume, considering implementing loyalty programs, as well as expanding product selection or even renaming product lines & categories throughout the year. This will position the retailer as a distination for more than just giftware, while incentivizing existing whilesale customers to increase their purchase frequency.**
 *
-* Overall - The company would also benefit from establishing relationships through targeted acquisition strategies with wholesaler customers that carry a broader range of products and are more likely to the make bulk purchases throughout the year. This is dependent on expanding product selection or crosslisting products under different "buckets" to improve the discoverability of versatile "giftware" items.**
+* With the reatiler being positioned as a giftware destination, a big chunk of sales revenue is dependent on end-of-year holiday success. **The company would  benefit from establishing relationships through targeted acquisition strategies with wholesale customers that carry a broader range of products and are more likely to the make bulk purchases throughout the year. This is dependent on expanding product selection or crosslisting products under different "buckets" to improve the discoverability of versatile "giftware" items.**
 
-* Low Sales and Order Volume in Saudi Arabia, Brazil, and Nigeria. Consider investing in localized marketing campaigns that cater to local customs and holidays. Explore relationships with local wholesalers to increase visibility and tap into these emerging markets.
+* Low Sales and Order Volume in Saudi Arabia, Brazil, and Nigeria. **Consider investing in localized marketing campaigns that cater to local customs and holidays. Explore relationships with local wholesalers to increase visibility and tap into these emerging markets.**
   
 
 # Assumptions and Caveats:
