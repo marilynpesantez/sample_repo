@@ -27,6 +27,8 @@ The companies main database structure as seen below consists of one table broken
 - **duplicated_rows_view:** All records where each column value is exactly equal to the values in some other row. A Row_Number() function was applied to the original raw view, partitioning over each column. This was done to identify duplicate records (where row_num > 1) and differenciate between the original record (where row_num = 1). These duplicates were labeled and excluded from the sale_view.
 
 [Entity Relationship Diagram here]
+![image](https://github.com/user-attachments/assets/87bf3575-aef0-4754-b3f5-0646908772ca)
+
 
 
 
