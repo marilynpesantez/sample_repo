@@ -72,15 +72,15 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
 * Sales revenue and order volume experience month-over-month growth from August to November, signaling a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects. Further inventory planning should be carried out to meet demand, particularly for items that have sold out in the past.**
-* 
+  
 * AOV dips from January to March. **The business should offer post-holiday promotions to boost order volume and sales. reach existing customers using a re-engagement email campaign to offer special discounts, pull customers back in, and drive order value. The business should implement a targeted upsell strategy through pricing and bundling strategies to reward and encourage high-value purchass.**
-* 
+  
 * Sales revenue and order volume recover in March, fluctuating through to August. **The business should consider running targeted summer campaigns catered to major holidays or events celebrated in each respective region. The retailer can drive order volume by tapping into these unique "ocassions" and celebrations for regions that already have a moderate-to-high AOV.**
   
 * High Sales and Order Volume in the UK. **Consider offering discounts on larger orders or creating bundled packages. This could boost average order value and contribute to substantial revenue growth.**
   
 * Moderate-to-high AOV in Western Europe, suggesting customers are willing to spend more on each transaction. **To capitalize on this and drive order volume, considering implementing loyalty programs, as well as expanding product selection or even renaming product lines & categories throughout the year. This will position the retailer as a distination for more than just giftware, while incentivizing existing whilesale customers to increase their purchase frequency.**
-*
+
 * With the reatiler being positioned as a giftware destination, a big chunk of sales revenue is dependent on end-of-year holiday success. **The company would  benefit from establishing relationships through targeted acquisition strategies with wholesale customers that carry a broader range of products and are more likely to the make bulk purchases throughout the year. This is dependent on expanding product selection or crosslisting products under different "buckets" to improve the discoverability of versatile "giftware" items.**
 
 * Low Sales and Order Volume in Saudi Arabia, Brazil, and Nigeria. **Consider investing in localized marketing campaigns that cater to local customs and holidays. Explore relationships with local wholesalers to increase visibility and tap into these emerging markets.**
