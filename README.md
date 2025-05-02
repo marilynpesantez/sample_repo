@@ -85,14 +85,6 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 * Low Sales and Order Volume in Saudi Arabia, Brazil, and Nigeria. **Consider investing in localized marketing campaigns that cater to local customs and holidays. Explore relationships with local wholesalers to increase visibility and tap into these emerging markets.**
 
-
-- **sale_view:** All records where Quantity is greater than zero, UnitPrice is greater than zero, and StockCode does not equal 'B' are assumed to represent sales transactions.
-- **giveaway_view:** All records where where Quantity is greater than zero, UnitPrice equals 0, CustomerID is not empty, and Item is not empty are assumed to represent items given away to customers for free through special promotions or bundles.
-- **cancellation_view:** All records where Quantity is less than zero and InvoiceNo begins with 'C' are assumed to represent cancelled transactions. Cancellation patterns are acknowledged in the analysis but not included in sales_view as they distort Order Volume and Average Order Value metrics.
-- **test_view:** All records where UnitPrice equals 0 and CustomerID is empty are assumed to be system tests that do not represent any tangible transactions.
-- **bad_debt_adjustment:** All records where where InvoiceNo begins with 'A' and StockCode equals 'B'.
-- **duplicated_rows_view:** All records where each column value is exactly equal to the values in some other row. A Row_Number() function was applied to the original raw view, partitioning over each column. This was done to identify duplicate records (where row_num > 1) and differenciate between the original record (where row_num = 1). These duplicates were labeled and excluded from the sale_view.
-
 # Assumptions and Caveats:
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
