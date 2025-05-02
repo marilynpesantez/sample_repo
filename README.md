@@ -54,10 +54,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
   
 * **While average order value peaked in December 2011, there was also a peak in average order value of cancelled transactions.** The peak in cancelled order volume during this same month may correspond with wholesaler customers overanticipating demand for their own respective shops and cancelled their orders through this wholesaler.
 
-[Visualization specific to category 1]
+![image](https://github.com/user-attachments/assets/68f73b80-a713-49c3-bd8e-b92633b9389d)
 
 
-### Category 3:
+### Regional Trends:
 
 * **United Kingdom dominates in sales revenue and order volume, signaling the company's robust market presence in the region** This may be reflective of the UK's large customer base and strong demand for gift-ware products, as well as logistical efficiencies in buying from a UK-based wholesaler. While the market is large and order volume is high, the relatively lower AOV in comparison to other regions indicates that a larger volume of lower-value orders is driving overall sales for the region. With the UK holding a top position, increasing AOV in this key market should be a key focus.
   
