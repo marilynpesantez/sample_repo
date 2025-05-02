@@ -45,9 +45,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **The company's sales peaked in November 2011 with 2,770 orders totaling $1,503,866.78 in monthly revenue.** This aligns with a universal peak in retail shopping and gift purchases leading up to the end-of-year holidays.
   
-* **Sales revenue and order volume dip in December following holiday seasons booms in both 2010 and 2011.** Revenue declined month-over-month for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed a similar trend, dipping in December 2010 and hitting a low in February 2011 before recovering the following month. 
+* **Sales revenue and order volume dip in December following holiday seasons booms in both 2010 and 2011.** Revenue declined for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed a similar trend, dipping in December 2010 and hitting a low in February 2011 before recovering the following month. 
   
-* **Revenue and order volume recover in March, staggering through the summer months.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Revenue and order volume recover in March, staggering through the summer months.** These metrics
+
+* Sales revenue and order volume experience a month-over-month from August to November, suggesting a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects. Further inventory planning should be carried out to meet demand, particularly for items that have sold out in the past.**
   
 * **Average order value peaked in December 2011, however there was also a peak in average order value of cancelled transactions.** With cancelled order volume dipping during this same month, this likely corresponds with instances in which wholesalers likely overanticipated demand for gift-ware from their own respective shops and cancelled their orders through this wholesaler
 
@@ -86,14 +88,14 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Sales revenue and order volume experience a month-over-month from August to November, suggesting a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects. Further inventory planning should be carried out to meet demand, particularly for items that have sold out in the past.**
-  
-* AOV dips from January to March. **The business should offer post-holiday promotions to boost order volume and sales. reach existing customers using a re-engagement email campaign to offer special discounts, pull customers back in, and drive order value.**
+
 *
-*
+* Sales revenue and order volume experience month-over-month growth from August to November, signaling a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects. Further inventory planning should be carried out to meet demand, particularly for items that have sold out in the past.**
 *
 *     picking back up through to its peak in November. Customer's are likely buying more expensive or larger quantities of items.  **The business should implement a targeted upsell strategy through pricing and bundling strategies to reward and encourage high-value purchass.**
-
+* 
+* AOV dips from January to March. **The business should offer post-holiday promotions to boost order volume and sales. reach existing customers using a re-engagement email campaign to offer special discounts, pull customers back in, and drive order value.**
+* 
 * Sales revenue and order volume recover in March, fluctuating through to August. **The business should consider running targeted summer campaigns catered to major holidays or events celebrated in each respective region. The retailer can drive order volume by tapping into these unique "ocassions" and celebrations.**
   
 * High Sales and Order Volume in the UK. **Consider offering discounts on larger orders or creating bundled packages. This could boost average order value and contribute to substantial revenue growth.**
