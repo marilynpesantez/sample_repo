@@ -48,7 +48,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **The company's sales figures peaked in November 2011 with 2,770 orders totaling $1,503,866.78 in monthly revenue.** This aligns with a universal peak in retail shopping and gift purchases leading up to the end-of-year holidays.
   
-* **Sales revenue and order volume dipped in December following holiday seasons booms in both 2010 and 2011.** Revenue declined for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed a similar trend, dipping in December 2010 and hitting a low in February 2011 before recovering the following month. 
+* **Sales revenue and order volume dipped in December following holiday season booms in both 2010 and 2011.** Revenue declined for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed a similar trend, dipping in December 2010 and hitting a low in February 2011 before recovering the following month. 
   
 * **Revenue and order volume recover in March, staggering through the summer months.**
   
